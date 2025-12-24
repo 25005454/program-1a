@@ -31,5 +31,5 @@ OUTPUT:
 <img width="602" height="243" alt="Screenshot 2025-10-19 181848" src="https://github.com/user-attachments/assets/deca7b27-78a1-4203-914e-8d3ba6d77add" />
 
 RESULT:
-Thus the program to find the ASCII value of a given character has been executed successfully
+Thus the program to find the ASCII value of a given character has been executed successfully.
 
