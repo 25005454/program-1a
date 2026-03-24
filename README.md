@@ -3,10 +3,6 @@ C module 1
 
 EX NO-1)a)- Finding ASCII value of a given character.
 
-Date:30/08/2025
-Name: E. Vamsi krishna
-Ref no: 25005454
-
 AIM:
 Write a C program to find the ASCII value of a given character
 
